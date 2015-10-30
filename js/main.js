@@ -1,0 +1,3 @@
+Stellar = {
+    init: function() {}
+}
